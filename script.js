@@ -10,8 +10,6 @@ function teste4() {
   );
 }
 
-function teste5() {
-  window.open(
-    "https://cdn.discordapp.com/attachments/830560948905443358/888487935396171847/unknown.png"
-  );
+function teste6() {
+  window.open("https://www.instagram.com/invites/contact/?i=1vpqo7zlm0zz0&utm_content=e4akw7y");
 }
