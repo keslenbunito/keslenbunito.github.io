@@ -13,3 +13,9 @@ function teste4() {
 function teste6() {
   window.open("https://www.instagram.com/invites/contact/?i=1vpqo7zlm0zz0&utm_content=e4akw7y");
 }
+
+function teste7() {
+
+window.location.href = "https://reverie-palace.github.io/partnerships/";
+
+}
