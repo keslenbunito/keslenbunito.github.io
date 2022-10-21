@@ -1,15 +1,3 @@
-var nome = prompt("Registrar no Roblox 2 digite seu nome");
-if (nome === "") {
-  var b2 = prompt("No minimo 1 caractere.");
-  location.reload(true);
-}
-var robux2 = 0;
-document.getElementById("robux");
-robux.innerHTML = robux2;
-
-document.getElementById("nick");
-nick.innerHTML = nome;
-
 var listaFilmes = [
   "https://cdn.discordapp.com/attachments/928090275606319144/1033109181043048458/jailbreak2.jpg",
 
@@ -81,3 +69,15 @@ function teste4() {
     window.open("https://www.youtube.com/watch?v=H2MoWa7Akn0");
   }
 }
+
+var nome = prompt("Registrar no Roblox 2 digite seu nome");
+if (nome === "") {
+  var b2 = prompt("No minimo 1 caractere.");
+  location.reload(true);
+}
+var robux2 = 0;
+document.getElementById("robux");
+robux.innerHTML = robux2;
+
+document.getElementById("nick");
+nick.innerHTML = nome;
